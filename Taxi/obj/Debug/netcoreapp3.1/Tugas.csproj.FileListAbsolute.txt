@@ -1,0 +1,11 @@
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\bin\Debug\netcoreapp3.1\Tugas.exe
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\bin\Debug\netcoreapp3.1\Tugas.deps.json
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\bin\Debug\netcoreapp3.1\Tugas.runtimeconfig.json
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\bin\Debug\netcoreapp3.1\Tugas.runtimeconfig.dev.json
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\bin\Debug\netcoreapp3.1\Tugas.dll
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\bin\Debug\netcoreapp3.1\Tugas.pdb
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\obj\Debug\netcoreapp3.1\Tugas.csprojAssemblyReference.cache
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\obj\Debug\netcoreapp3.1\Tugas.AssemblyInfoInputs.cache
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\obj\Debug\netcoreapp3.1\Tugas.AssemblyInfo.cs
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\obj\Debug\netcoreapp3.1\Tugas.dll
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Tugas\obj\Debug\netcoreapp3.1\Tugas.pdb
