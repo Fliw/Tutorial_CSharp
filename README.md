@@ -1,4 +1,4 @@
-## C# Fundamental Examples And Projects
+## C# Fundamental Projects
 
 Hello Devs ! This is An Example of C# Programming, Included by Comment on Code And Various Simple Projects.
 
