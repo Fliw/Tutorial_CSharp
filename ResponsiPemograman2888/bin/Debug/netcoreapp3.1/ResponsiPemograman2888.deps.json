@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ResponsiPemograman2888/1.0.0": {
+        "runtime": {
+          "ResponsiPemograman2888.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResponsiPemograman2888/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

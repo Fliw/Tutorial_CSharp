@@ -1,0 +1,11 @@
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\bin\Debug\netcoreapp3.1\ResponsiPemograman2888.exe
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\bin\Debug\netcoreapp3.1\ResponsiPemograman2888.deps.json
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\bin\Debug\netcoreapp3.1\ResponsiPemograman2888.runtimeconfig.json
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\bin\Debug\netcoreapp3.1\ResponsiPemograman2888.runtimeconfig.dev.json
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\bin\Debug\netcoreapp3.1\ResponsiPemograman2888.dll
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\bin\Debug\netcoreapp3.1\ResponsiPemograman2888.pdb
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\obj\Debug\netcoreapp3.1\ResponsiPemograman2888.csprojAssemblyReference.cache
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\obj\Debug\netcoreapp3.1\ResponsiPemograman2888.AssemblyInfoInputs.cache
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\obj\Debug\netcoreapp3.1\ResponsiPemograman2888.AssemblyInfo.cs
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\obj\Debug\netcoreapp3.1\ResponsiPemograman2888.dll
+C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\ResponsiPemograman2888\obj\Debug\netcoreapp3.1\ResponsiPemograman2888.pdb
