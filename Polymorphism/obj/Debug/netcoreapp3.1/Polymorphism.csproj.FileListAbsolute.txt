@@ -9,3 +9,5 @@ C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Polymorphism\obj\Debug\netcoreapp
 C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
 C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
 C:\Users\Fliw\Documents\CSharp\Tutorial_CSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fliw\\Documents\\csharp\\tutorial_csharp\\Polymorphism\\Polymorphism.csproj",
-      "projectName": "Polymorphism",
-      "projectPath": "C:\\Users\\Fliw\\Documents\\csharp\\tutorial_csharp\\Polymorphism\\Polymorphism.csproj",
+      "projectUniqueName": "C:\\Users\\Fliw\\Documents\\csharp\\tutorial_csharp\\Interface\\Interface.csproj",
+      "projectName": "Interface",
+      "projectPath": "C:\\Users\\Fliw\\Documents\\csharp\\tutorial_csharp\\Interface\\Interface.csproj",
       "packagesPath": "C:\\Users\\Fliw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fliw\\Documents\\csharp\\tutorial_csharp\\Polymorphism\\obj\\",
+      "outputPath": "C:\\Users\\Fliw\\Documents\\csharp\\tutorial_csharp\\Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fliw\\AppData\\Roaming\\NuGet\\NuGet.Config"
