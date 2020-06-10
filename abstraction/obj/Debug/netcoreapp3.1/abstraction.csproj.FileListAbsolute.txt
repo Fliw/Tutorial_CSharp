@@ -1,0 +1,13 @@
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.exe
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.deps.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.dev.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\bin\Debug\netcoreapp3.1\abstraction.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.csprojAssemblyReference.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfoInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfo.cs
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\abstraction\obj\Debug\netcoreapp3.1\abstraction.genruntimeconfig.cache
