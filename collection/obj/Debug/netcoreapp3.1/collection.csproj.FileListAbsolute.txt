@@ -1,0 +1,13 @@
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\obj\Debug\netcoreapp3.1\collection.csprojAssemblyReference.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\obj\Debug\netcoreapp3.1\collection.csproj.CoreCompileInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\obj\Debug\netcoreapp3.1\collection.AssemblyInfoInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\obj\Debug\netcoreapp3.1\collection.AssemblyInfo.cs
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\bin\Debug\netcoreapp3.1\collection.exe
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\bin\Debug\netcoreapp3.1\collection.deps.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\bin\Debug\netcoreapp3.1\collection.runtimeconfig.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\bin\Debug\netcoreapp3.1\collection.runtimeconfig.dev.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\bin\Debug\netcoreapp3.1\collection.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\bin\Debug\netcoreapp3.1\collection.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\obj\Debug\netcoreapp3.1\collection.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\obj\Debug\netcoreapp3.1\collection.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\collection\obj\Debug\netcoreapp3.1\collection.genruntimeconfig.cache
