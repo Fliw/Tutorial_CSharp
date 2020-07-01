@@ -1,0 +1,13 @@
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\bin\Debug\netcoreapp3.1\CRUD.exe
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\bin\Debug\netcoreapp3.1\CRUD.deps.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.dev.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\bin\Debug\netcoreapp3.1\CRUD.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\bin\Debug\netcoreapp3.1\CRUD.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\obj\Debug\netcoreapp3.1\CRUD.csprojAssemblyReference.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfoInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfo.cs
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\obj\Debug\netcoreapp3.1\CRUD.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\obj\Debug\netcoreapp3.1\CRUD.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\CRUD\obj\Debug\netcoreapp3.1\CRUD.genruntimeconfig.cache
