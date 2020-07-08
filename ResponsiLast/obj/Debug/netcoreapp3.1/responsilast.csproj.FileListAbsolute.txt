@@ -1,0 +1,13 @@
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\obj\Debug\netcoreapp3.1\responsilast.csprojAssemblyReference.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\obj\Debug\netcoreapp3.1\responsilast.csproj.CoreCompileInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\obj\Debug\netcoreapp3.1\responsilast.AssemblyInfoInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\obj\Debug\netcoreapp3.1\responsilast.AssemblyInfo.cs
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\bin\Debug\netcoreapp3.1\responsilast.exe
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\bin\Debug\netcoreapp3.1\responsilast.deps.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\bin\Debug\netcoreapp3.1\responsilast.runtimeconfig.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\bin\Debug\netcoreapp3.1\responsilast.runtimeconfig.dev.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\bin\Debug\netcoreapp3.1\responsilast.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\bin\Debug\netcoreapp3.1\responsilast.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\obj\Debug\netcoreapp3.1\responsilast.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\obj\Debug\netcoreapp3.1\responsilast.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\responsilast\obj\Debug\netcoreapp3.1\responsilast.genruntimeconfig.cache
