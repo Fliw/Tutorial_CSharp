@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Hello_World/bin/Debug/netcoreapp3.1/csharp.dll",
+            "program": "${workspaceFolder}/fp/bin/Debug/netcoreapp3.1/fp.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Hello_World",
+            "cwd": "${workspaceFolder}/fp",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

@@ -1,0 +1,13 @@
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\bin\Debug\netcoreapp3.1\fp.exe
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\bin\Debug\netcoreapp3.1\fp.deps.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\bin\Debug\netcoreapp3.1\fp.runtimeconfig.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\bin\Debug\netcoreapp3.1\fp.runtimeconfig.dev.json
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\bin\Debug\netcoreapp3.1\fp.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\bin\Debug\netcoreapp3.1\fp.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\obj\Debug\netcoreapp3.1\fp.csprojAssemblyReference.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\obj\Debug\netcoreapp3.1\fp.csproj.CoreCompileInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\obj\Debug\netcoreapp3.1\fp.AssemblyInfoInputs.cache
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\obj\Debug\netcoreapp3.1\fp.AssemblyInfo.cs
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\obj\Debug\netcoreapp3.1\fp.dll
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\obj\Debug\netcoreapp3.1\fp.pdb
+C:\Users\Fliw\Documents\csharp\tutorial_csharp\fp\obj\Debug\netcoreapp3.1\fp.genruntimeconfig.cache
