@@ -26,7 +26,7 @@ namespace fp
                         break;
                     case 2:
                     //redirect to user role
-                        user users = new user();
+                        // user users = new user();
                         break;
                     case 3:
                     //out from loop (exit)

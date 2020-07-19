@@ -72,9 +72,8 @@ namespace fp
             {
                 Console.WriteLine("Main Menu\n");
                 Console.WriteLine("1.Manajemen Mobil");
-                Console.WriteLine("2.Manajemen Users");
-                Console.WriteLine("3.Manajemen Rental");
-                Console.WriteLine("4.Exit\n");
+                Console.WriteLine("2.Manajemen Rental");
+                Console.WriteLine("3.Exit\n");
                 Console.WriteLine("Pilihan Anda:");
                 pil = Convert.ToInt32(Console.ReadLine());
                 switch (pil)
@@ -84,14 +83,10 @@ namespace fp
                         manajemenMobil manajemenMobils = new manajemenMobil();
                         break;
                     case 2:
-                    //redirect to manajemen user page
-                        // manajemenUser manajemenUsers = new manajemenUser();
+                    //redirect to manajemen rental page
+                        manajemenRental manajemenRentals = new manajemenRental();
                         break;
                     case 3:
-                    //redirect to manajemen rental page
-                        // manajemenRental manajemenRentals = new manajemenRental();
-                        break;
-                    case 4:
                         Console.Clear();
                         break;
                     default:
@@ -101,7 +96,7 @@ namespace fp
                         adminPanel();
                         break;
                 }
-            } while (pil != 4);
+            } while (pil != 3);
         }
     }
 

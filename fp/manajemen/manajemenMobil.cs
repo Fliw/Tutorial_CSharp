@@ -7,6 +7,8 @@ namespace fp
 {
     public class manajemenMobil
     {
+        public static List<sedan> listSedan = new List<sedan>();  
+        public static  List<suv> listSuv = new List<suv>();
         //constructing first
         public manajemenMobil()
         {
@@ -14,8 +16,6 @@ namespace fp
             Console.WriteLine("Page Manajemen Mobil!");
             Thread.Sleep(1000);
             int pil = 0;
-            List<sedan> listSedan = new List<sedan>();
-            List<suv> listSuv = new List<suv>();
             do
             {
                 Console.WriteLine("Main Menu Manajemen Mobil\n");
