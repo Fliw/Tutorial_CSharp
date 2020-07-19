@@ -7,8 +7,10 @@ namespace fp
         static void Main(string[] args)
         {
             int pil = 0;
+            //loop
             do
             {
+                Console.Clear();
                 Console.WriteLine("=====Aplikasi Rental Mobil=====\n");
                 Console.WriteLine("Login As :\n");
                 Console.WriteLine("1.admin");
@@ -19,14 +21,18 @@ namespace fp
                 switch (pil)
                 {
                     case 1:
+                    //redirect to admin role
                         admin admins = new admin();
                         break;
                     case 2:
+                    //redirect to user role
                         user users = new user();
                         break;
                     case 3:
+                    //out from loop (exit)
                         return;
                     default:
+                    //back to top
                         Console.Clear();
                         Console.WriteLine("Pilihan Anda Salah!");
                         break;
