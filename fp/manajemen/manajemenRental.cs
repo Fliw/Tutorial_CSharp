@@ -15,6 +15,7 @@ namespace fp
             int pil = 0;
             do
             {
+                Console.Clear();
                 Console.WriteLine("MAIN MENU\n");
                 Console.WriteLine("1.Daftar Mobil yang sudah disewa");
                 Console.WriteLine("2.Daftar Mobil yang belum disewa");
@@ -137,7 +138,7 @@ namespace fp
                 Console.WriteLine("Harga Rental Perjam = " + mobil.harga + "\n\n");
                 counterSuv++;
             }
-            Console.WriteLine("total : "+counterSuv - 1+" Mobil");
+            Console.WriteLine("total : "+--counterSuv +" Mobil");
             Console.WriteLine("tekan enter untuk kembali");
             Console.ReadKey();
         }

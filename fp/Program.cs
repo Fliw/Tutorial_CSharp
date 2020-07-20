@@ -6,11 +6,11 @@ namespace fp
     {
         static void Main(string[] args)
         {
+            Console.Clear();
             int pil = 0;
             //loop
             do
             {
-                Console.Clear();
                 Console.WriteLine("=====Aplikasi Rental Mobil=====\n");
                 Console.WriteLine("Login As :\n");
                 Console.WriteLine("1.admin");
@@ -26,7 +26,7 @@ namespace fp
                         break;
                     case 2:
                     //redirect to user role
-                        // user users = new user();
+                        user users = new user();
                         break;
                     case 3:
                     //out from loop (exit)

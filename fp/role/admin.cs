@@ -33,6 +33,7 @@ namespace fp
                     }
                     else if (kunci.Key == ConsoleKey.Enter)
                     {
+
                         break;
                     }
                 }
@@ -51,13 +52,13 @@ namespace fp
             {
                 Console.Clear();
                 Console.WriteLine("Password atau username salah!");
-                return;
+            
             }
             else
             {
                 Console.Clear();
                 Console.WriteLine("Kredensial tidak ditemukan!");
-                return;
+            
             }
         }
         //start the admin panel
@@ -70,6 +71,7 @@ namespace fp
             int pil = 0;
             do
             {
+                Console.Clear();
                 Console.WriteLine("Main Menu\n");
                 Console.WriteLine("1.Manajemen Mobil");
                 Console.WriteLine("2.Manajemen Rental");
